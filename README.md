@@ -1,2 +1,2 @@
 ### Portfolio Optimization
-#### Implementing the Markowitze Model for portfolio optimization using Monte Carlo Simulation
+#### Implementing the Markowitz Model for portfolio optimization using Monte Carlo Simulation
